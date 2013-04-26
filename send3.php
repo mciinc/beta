@@ -9,5 +9,5 @@
      
      mail($to,$subj,$mess);
      
-     header("Location: http://store01.prostores.com/servlet/microconnectors/the-template/thankyou/Page");
+     header("Location: http://www.microconnectors.com/servlet/the-template/thankyou/Page");
 ?>
